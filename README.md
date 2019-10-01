@@ -1,6 +1,12 @@
 # Line-Detector-OpenCV
 Road line detector using OpenCV, Python and moviepy  
 
+Run the script using command:  
+```
+python LineDetector.py -i <path_to_input_video>
+```
+Output video will be created in folder where script is located
+
 ## Defining ROI  
 Firstly, we have to define Region Of Interests.  
 Let's imagine what does road lines look like in front of the car  
