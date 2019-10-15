@@ -1,4 +1,5 @@
 # Line-Detector-OpenCV
+Big thanks to Adrian Rosebrock for the [tutorial](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)  
 Road line detector using OpenCV, Python and moviepy  
 
 Run the script using command:  
